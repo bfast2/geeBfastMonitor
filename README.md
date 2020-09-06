@@ -20,7 +20,7 @@ The parameters are similar to the R version of bfastMonitor:
  - monitoringStart: The starting date of the monitoring period.
  - monitoringEnd: The end date of the monitoring period.
  - h: numeric scalar from interval (0,1) specifying the bandwidth relative to the sample size in MOSUM/ME monitoring processes
- - period: 
+ - period: maximum time, relative to the history period, that should be monitored. The default is 10 times the history period.
  - alpha: Significance level of the monitoring (and ROC, if selected) procedure, i.e., probability of type I error.
  - magnitudeThreshold: Threshold for magnitude level for which a change should be considered. Default is 0.
  - harmonics: Order of the harmonic term.
