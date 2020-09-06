@@ -2,7 +2,7 @@
 geeBFASTmonitor is a reimplementation of R bfastmonitor with only some slight variations.
 
 # BFASTmonitor
-bfastmonitor is a variation of bfast for monitoring purposes. Since geeMonitor is mostly a reimplementation, the [original documentation](https://www.rdocumentation.org/packages/bfast/versions/1.5.7/topics/bfastmonitor) is still relevant.
+BFASTmonitor is a variation of bfast for monitoring purposes. Since geeBFASTmonitor is mostly a reimplementation, the [original documentation](https://www.rdocumentation.org/packages/bfast/versions/1.5.7/topics/bfastmonitor) is still relevant.
 
 # Running geeBFASTmonitor
 
