@@ -6,7 +6,7 @@ BFASTmonitor is a variation of bfast for monitoring purposes. Since geeBFASTmoni
 
 # Running geeBFASTmonitor
 
-It's as easy as including :
+It's as easy as including the following code in the beginning of your script :
 
     var engine = require('users/andreim/geeMonitor:monitor.js');
 
