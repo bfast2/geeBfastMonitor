@@ -27,7 +27,7 @@ The parameters are similar to the R version of bfastMonitor:
 
 A typical way of using the function is to save its result:
 
-var result = engine.bfastMonitor(roi,historyStart,historyEnd,monitoringStart,monitoringEnd,h,period,alpha,magnitudeThreshold,harmonics)
+```var result = engine.bfastMonitor(roi,historyStart,historyEnd,monitoringStart,monitoringEnd,h,period,alpha,magnitudeThreshold,harmonics)```
 
 The most important results are:
  - the time of change found in bfastResults.timeCnk2
